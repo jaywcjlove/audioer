@@ -34,10 +34,10 @@ Supported audio formats include:
 
 ### Key Features
 
-■ Audio Bitrate Adjustment: Customize the bitrate to ensure the audio quality meets your needs.
-■ Sample Rate Detection: Automatically detect and adapt the audio sample rate.
-■ Audio Channel Settings: Easily adjust the number of audio channels.
-■ Audio Metadata Editing: Edit metadata such as artist, album, and more, making it easy to organize and manage your audio files.
-■ Simple Operation: Complete format conversion quickly with just two clicks.
+■ Audio Bitrate Adjustment: Customize the bitrate to ensure the audio quality meets your needs.  
+■ Sample Rate Detection: Automatically detect and adapt the audio sample rate.  
+■ Audio Channel Settings: Easily adjust the number of audio channels.  
+■ Audio Metadata Editing: Edit metadata such as artist, album, and more, making it easy to organize and manage your audio files.  
+■ Simple Operation: Complete format conversion quickly with just two clicks.  
 
 Our application supports almost all common audio formats across various devices — making music conversion and metadata editing easier than ever!
