@@ -14,7 +14,7 @@
   <p>
     <a href="./README.zh.md">简体中文</a> • 
     <a target="_blank" href="https://github.com/jaywcjlove/Audioer/issues/new?template=bug_report.yml">Contact & Support</a> • 
-    <a href="https://github.com/jaywcjlove/Audioer/releases">Changelog</a>
+    <a href="./CHANGELOG.md">Changelog</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/Audioer/6743841447" title="Audioer for macOS">

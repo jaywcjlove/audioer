@@ -1,9 +1,9 @@
 <p align="right">
-  <a href="./CHANGELOG.zh.md">中文</a>
+  <a href="./CHANGELOG.md">English</a>
 </p>
 <!--rehype:style=float: right; bottom: -36px; position: relative;-->
 
-Changelog
+更新日志
 ===
 
 <a target="_blank" href="https://apps.apple.com/app/Audioer/6743841447" title="Audioer for macOS">
@@ -12,12 +12,12 @@ Changelog
 
 ## [v1.2.0](https://github.com/jaywcjlove/audioer/releases/tag/v1.2.0)
 
-1. feat: import files via right-click and dock icon.
-2. feat: update main menu
+1. 新增：通过右键和 Dock 图标导入文件  
+2. 新增：更新主菜单
 
 ## [v1.1.0](https://github.com/jaywcjlove/audioer/releases/tag/v1.1.0)
 
-1. feat: Support macOS 14+.
-2. feat: Support w64 and m4r format conversion.
+1. feat: 支持 macOS 14+。
+2. feat: 支持 w64 和 m4r 格式转换。
 
 ## [v1.0.0](https://github.com/jaywcjlove/audioer/releases/tag/v1.0.0)
