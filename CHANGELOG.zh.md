@@ -10,6 +10,11 @@
 <img alt="Audioer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.3.0](https://github.com/jaywcjlove/audioer/releases/tag/v1.3.0)
+
+1. 新增：支持 VOX 与其他音频格式之间的相互转换。
+2. 新增：支持从 SD2 格式转换为其他音频格式。
+
 ## [v1.2.0](https://github.com/jaywcjlove/audioer/releases/tag/v1.2.0)
 
 1. 新增：通过右键和 Dock 图标导入文件  

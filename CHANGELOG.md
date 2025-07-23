@@ -10,6 +10,11 @@ Changelog
 <img alt="Audioer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.3.0](https://github.com/jaywcjlove/audioer/releases/tag/v1.3.0)
+
+1. feat: Support bidirectional conversion between VOX and other audio formats.
+2. feat: Add support for converting from SD2 format to other audio formats.
+
 ## [v1.2.0](https://github.com/jaywcjlove/audioer/releases/tag/v1.2.0)
 
 1. feat: import files via right-click and dock icon.
