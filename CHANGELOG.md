@@ -10,6 +10,11 @@ Changelog
 <img alt="Audioer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.0.0](https://github.com/jaywcjlove/audioer/releases/tag/v2.0.0)
+
+1. feat: add support for macOS 26.
+2. chore: fix main menu i18n issues.
+
 ## [v1.3.0](https://github.com/jaywcjlove/audioer/releases/tag/v1.3.0)
 
 1. feat: Support bidirectional conversion between VOX and other audio formats.

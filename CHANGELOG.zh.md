@@ -10,6 +10,11 @@
 <img alt="Audioer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.0.0](https://github.com/jaywcjlove/audioer/releases/tag/v2.0.0)
+
+1. feat: 添加对 macOS 26 的支持。  
+2. chore: 修复主菜单的国际化问题。
+
 ## [v1.3.0](https://github.com/jaywcjlove/audioer/releases/tag/v1.3.0)
 
 1. 新增：支持 VOX 与其他音频格式之间的相互转换。
