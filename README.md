@@ -29,7 +29,7 @@
 
 Easily convert all audio files to MP3 with just one click! It supports conversion between multiple audio formats with simple and fast operation. Just drag the files into the application window, adjust the settings, click the button, and the conversion is done!
 
-Supported audio formats include: .aac, .ac3, .aifc, .aiff, .aif, .amr, .au, .caf, .dts, .eac3, .flac, .m4a, .mp2, .mp3, .mp4, .mka, .mov, .ogg, .opus, .ra, .rm, .spx, .tta, .voc, .vob, .wav, .webm, .wma, .w64, .m4r
+Supported audio formats include: `.aac`, `.ac3`, `.aifc`, `.aiff`, `.aif`, `.amr`, `.au`, `.caf`, `.dts`, `.eac3`, `.flac`, `.m4a`, `.mp2`, `.mp3`, `.mp4`, `.mka`, `.mov`, `.ogg`, `.opus`, `.ra`, `.rm`, `.spx`, `.tta`, `.voc`, `.vob`, `.wav`, `.webm`, `.wma`, `.w64`, `.m4r`
 
 ### Key Features
 
