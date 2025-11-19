@@ -10,6 +10,11 @@
 <img alt="Audioer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.1.0](https://github.com/jaywcjlove/audioer/releases/tag/v2.1.0)
+
+1. perf：优化文件选择转换的通知提示。
+2. perf：改进拖拽加载文件的状态样式。
+
 ## [v2.0.0](https://github.com/jaywcjlove/audioer/releases/tag/v2.0.0)
 
 1. feat: 添加对 macOS 26 的支持。  
