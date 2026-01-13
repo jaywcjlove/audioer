@@ -10,6 +10,12 @@ Changelog
 <img alt="Audioer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.2.0](https://github.com/jaywcjlove/audioer/releases/tag/v2.2.0)
+
+1. fix: Fix internationalization display error.
+2. fix: Resolve issue with paid unlock verification error.
+3. fix: Resolve menu localization issues.
+
 ## [v2.1.0](https://github.com/jaywcjlove/audioer/releases/tag/v2.1.0)
 
 1. perf: optimize notification for file selection conversion.

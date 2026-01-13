@@ -10,6 +10,12 @@
 <img alt="Audioer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.2.0](https://github.com/jaywcjlove/audioer/releases/tag/v2.2.0)
+
+1. fix: 修复国际化显示错误。
+2. fix: 修复付费解锁验证错误的问题。
+3. fix: 修复菜单本地化问题。
+
 ## [v2.1.0](https://github.com/jaywcjlove/audioer/releases/tag/v2.1.0)
 
 1. perf：优化文件选择转换的通知提示。
