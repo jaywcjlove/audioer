@@ -10,6 +10,12 @@
 <img alt="Audioer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.3.0](https://github.com/jaywcjlove/audioer/releases/tag/v2.3.0)
+
+1. feat: 新增韩语、德语、法语、意大利语、日语界面支持。
+2. feat: 新增音频封面管理，支持添加、替换和删除封面图片。
+3. chore: 更新项目依赖，提升兼容性与稳定性。
+
 ## [v2.2.0](https://github.com/jaywcjlove/audioer/releases/tag/v2.2.0)
 
 1. fix: 修复国际化显示错误。

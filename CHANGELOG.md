@@ -10,6 +10,12 @@ Changelog
 <img alt="Audioer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.3.0](https://github.com/jaywcjlove/audioer/releases/tag/v2.3.0)
+
+1. feat: Added support for Korean, German, French, Italian, and Japanese.
+2. feat: Added audio artwork management with support for adding, replacing, and removing cover artwork.
+3. chore: Updated project dependencies to improve compatibility and stability.
+
 ## [v2.2.0](https://github.com/jaywcjlove/audioer/releases/tag/v2.2.0)
 
 1. fix: Fix internationalization display error.
