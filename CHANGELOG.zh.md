@@ -10,6 +10,12 @@
 <img alt="Audioer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.4.0](https://github.com/jaywcjlove/audioer/releases/tag/v2.4.0)
+
+1. 新增：完整元数据编辑功能，支持直接写入源文件标签。
+2. 优化：改进元数据编辑按钮及拖放提示界面。
+3. 修复：统一文件导入路径，解决打开文件时可能发生的崩溃问题。
+
 ## [v2.3.0](https://github.com/jaywcjlove/audioer/releases/tag/v2.3.0)
 
 1. feat: 新增韩语、德语、法语、意大利语、日语界面支持。

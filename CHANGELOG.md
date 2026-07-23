@@ -10,6 +10,12 @@ Changelog
 <img alt="Audioer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.4.0](https://github.com/jaywcjlove/audioer/releases/tag/v2.4.0)
+
+1. feat: add full metadata editor that writes tags to source files.
+2. style: polish metadata edit button and drop overlay UI.
+3. fix: unify file import paths to prevent Open crash.
+
 ## [v2.3.0](https://github.com/jaywcjlove/audioer/releases/tag/v2.3.0)
 
 1. feat: Added support for Korean, German, French, Italian, and Japanese.
