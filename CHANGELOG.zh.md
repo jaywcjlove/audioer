@@ -10,6 +10,11 @@
 <img alt="Audioer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.5.0](https://github.com/jaywcjlove/audioer/releases/tag/v2.5.0)
+
+1. feat: 更新应用图标。
+2. feat: 元信息编辑添加文本提示。
+
 ## [v2.4.0](https://github.com/jaywcjlove/audioer/releases/tag/v2.4.0)
 
 1. 新增：完整元数据编辑功能，支持直接写入源文件标签。

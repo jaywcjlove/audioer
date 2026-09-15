@@ -10,6 +10,11 @@ Changelog
 <img alt="Audioer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.5.0](https://github.com/jaywcjlove/audioer/releases/tag/v2.5.0)
+
+1. feat: Update App icon. 
+2. feat: add text prompt for metadata editing. 
+
 ## [v2.4.0](https://github.com/jaywcjlove/audioer/releases/tag/v2.4.0)
 
 1. feat: add full metadata editor that writes tags to source files.
